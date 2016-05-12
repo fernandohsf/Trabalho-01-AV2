@@ -1,0 +1,39 @@
+body{
+	max-width:600px;
+	margin:0 auto;
+}
+input[type=text], input[type=password], input[type=email]{
+	width:100%;
+    height:100%;
+    border-radius: 10px 20px 30px;
+}
+select{
+	width:100%;
+    height:100%;
+    border-radius: 10px 20px 30px;
+}
+textarea{
+	resize: none;
+	width:100%;
+    height:100%;
+    border-radius: 10px 20px 30px;
+}
+span{
+	color:red;
+	font-size:10px;
+}
+form{
+	font-weight:bold;
+	background:url("../img/plano_fundo.jpg");
+	padding:3px;
+	width:100%;
+    height:100%;
+    border-radius: 10px 10px;
+	text-align:center;
+}
+.checkboxes{
+	text-align:left;	
+}
+.titulo{
+	font-size:25px;
+}
